@@ -1,0 +1,9 @@
+{
+  "name": "FINTAL",
+  "description": "Plataforma líder en inteligencia financiera para el mercado mexicano.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
